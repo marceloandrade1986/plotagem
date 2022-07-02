@@ -1,0 +1,13 @@
+@import "~bootstrap/dist/css/bootstrap.css";
+
+.loren {
+   background-color: #eee;
+   border: 1px solid rgb(27, 30, 70);
+   border-style: 1px solid rgba(27, 30, 70, 1);
+   border-radius: 3px;
+   margin-right: 16px;
+   margin-left: 16px;
+   margin-top: 16px;
+   margin-bottom: 16px;
+   box-shadow: rgb(124, 124, 124) 2px 2px 1px;
+}
